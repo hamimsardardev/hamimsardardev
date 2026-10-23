@@ -1,22 +1,22 @@
+<div align="center">
 
-<h1 align="center">Hey there, I'm Hamim Sardar 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Hamim+Sardar+%F0%9F%91%8B;MERN+Stack+Developer;Frontend+%26+Full+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing introduction" />
 
-<h3 align="center">
-  MERN Stack Developer | Full Stack Developer | Front End Developer| React | Node.js | Express | MongoDB | Modern Web Development
-</h3>
+  <p>
+    <b>Turning ideas into modern, responsive web applications.</b>
+  </p>
 
-<p align="center">
-  Building modern, responsive and user-friendly web applications.
-</p>
-
-<p align="center">
   <a href="https://github.com/hamimsardardev">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/hamim-sardar-754212393/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://obscura-share.vercel.app/">
+    <img src="https://img.shields.io/badge/Obscura-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Obscura"/>
+  </a>
+
+</div>
 
 ---
 
@@ -45,36 +45,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Obscura
-**Zero-Knowledge-Oriented Encrypted Temporary File Sharing**
-
-A privacy-focused file-sharing application designed to let users share files through temporary links with configurable expiration and usage limits.
-
-- 🔒 Client-side encryption and privacy-focused sharing workflow.
-- 📁 Upload and share single or multiple files.
-- 🔗 Generate temporary links with access controls.
-- ⏳ Configure link expiration and usage limits.
-
-**Technologies:** Next.js, React.js, Node.js, Express.js, Prisma, PostgreSQL.
-
-[View Repository](https://github.com/Atia-Farha/Obscura)
-
-### 🤝 EventFlow
-**Event Registration & Management Portal**
-
-EventFlow is a event registration and management application built with Next.js, TypeScript and Tailwind CSS..
-
-**Planned focus:** Event registration and management web application.
-
-<!-- Replace YOUR_JIBONSETU_REPO with your actual repository name. -->
-[View Repository](https://github.com/hamimsardardev/eventflow)
-
----
 
 ## 📊 GitHub Overview
 
