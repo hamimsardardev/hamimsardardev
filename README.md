@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Hamim Sardar 👋</h1>
 
 <h3 align="center">
-  MERN Stack Developer | Frontend Developer
+  MERN Stack Developer | Full Stack Developer | Front End Developer| React | Node.js | Express | MongoDB | Modern Web Development
 </h3>
 
 <p align="center">
