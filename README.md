@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Hamim+Sardar+%F0%9F%91%8B;MERN+Stack+Developer;Frontend+%26+Full+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing introduction" />
 
   <p>
-    <b>Turning ideas into modern, responsive web applications.</b>
+    <b>MERN Stack Developer | Full Stack Developer | Front End Developer| React | Node.js | Express | MongoDB | Modern Web Development</b>
   </p>
 
   <a href="https://github.com/hamimsardardev">
