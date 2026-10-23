@@ -62,7 +62,7 @@ A privacy-focused file-sharing application designed to let users share files thr
 
 **Technologies:** Next.js, React.js, Node.js, Express.js, Prisma, PostgreSQL.
 
-[View Repository](https://github.com/hamimsardardev/github.com/Atia-Farha/Obscura)
+[View Repository](https://github.com/Atia-Farha/Obscura)
 
 ### 🤝 EventFlow
 **Event Registration & Management Portal**
@@ -72,7 +72,7 @@ EventFlow is a event registration and management application built with Next.js,
 **Planned focus:** Event registration and management web application.
 
 <!-- Replace YOUR_JIBONSETU_REPO with your actual repository name. -->
-[View Repository](https://github.com/hamimsardardev/https://eventflow-mauve.vercel.app/)
+[View Repository](https://github.com/hamimsardardev/eventflow)
 
 ---
 
