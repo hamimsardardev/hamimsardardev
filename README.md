@@ -22,10 +22,8 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I'm a fresher passionate about full-stack web development.
 - 💻 I build responsive and interactive interfaces with React.js and Next.js.
 - ⚙️ I'm familiar with Node.js, Express.js, MongoDB and REST APIs.
-- 🔐 I'm working on **Obscura**, a privacy-focused temporary file-sharing application.
 - 📚 Continuously learning modern technologies and professional development practices.
 - 🎯 My goal is to build useful products and grow as a software developer.
 
