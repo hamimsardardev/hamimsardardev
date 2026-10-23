@@ -62,7 +62,7 @@ A privacy-focused file-sharing application designed to let users share files thr
 
 **Technologies:** Next.js, React.js, Node.js, Express.js, Prisma, PostgreSQL.
 
-[View Repository](https://github.com/hamimsardardev/https://github.com/Atia-Farha/Obscura)
+[View Repository](https://github.com/hamimsardardev/github.com/Atia-Farha/Obscura)
 
 ### 🤝 EventFlow
 **Event Registration & Management Portal**
