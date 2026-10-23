@@ -62,8 +62,7 @@ A privacy-focused file-sharing application designed to let users share files thr
 
 **Technologies:** Next.js, React.js, Node.js, Express.js, Prisma, PostgreSQL.
 
-<!-- Replace YOUR_OBSCURA_REPO with your actual repository name. -->
-[View Repository](https://github.com/hamimsardardev/obscura-share.vercel.app/)
+[View Live Demo](https://obscura-share.vercel.app/)
 
 ### 🤝 EventFlow
 **Event Registration & Management Portal**
